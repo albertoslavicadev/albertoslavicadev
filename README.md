@@ -4,7 +4,7 @@
 
 <br>
 
-### :computer: A developer passionete about technology.
+### :computer: A developer passionate about technology.
 
 
 #### :smiley_cat: Currently unemployed but looking for work!!!
@@ -15,8 +15,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathateth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
