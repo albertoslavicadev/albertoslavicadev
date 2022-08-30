@@ -1,4 +1,4 @@
-<center>
+<div style="center">
 
 # Welcome to Alberto Slavica profile! :smile:
 
@@ -23,4 +23,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hathateth&count_private=true&show_icons=true&theme=synthwave)
 
-</center>
+</div>
