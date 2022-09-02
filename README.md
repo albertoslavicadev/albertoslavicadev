@@ -11,7 +11,7 @@
 
 <br><br>
 
--     🌱 I’m currently learning Rust. 
+-     🌱 I’m currently learning Php. 
 -     ❤️ Open source lover and linux enthusiast.
 -     💬 Ask me about everything!
 -     😄 Pronouns: He/him
@@ -34,9 +34,8 @@
 Languages:  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Rust](https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-0175C2?style=for-the-badge&logo=go&logoColor=white)
-![Php](https://img.shields.io/badge/php-0175C2?style=for-the-badge&logo=go&logoColor=white)
+![Php](https://img.shields.io/badge/php-0175C2?style=for-the-badge&logo=php&logoColor=white)
 <br>
 
 Web Development:
