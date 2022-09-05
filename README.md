@@ -15,7 +15,7 @@
 -     ❤️ Open source lover and linux enthusiast.
 -     💬 Ask me about everything!
 -     😄 Pronouns: He/him
--     💿 I use Arch btw 
+
   
 
 
@@ -59,9 +59,7 @@ Editors:
 ![Vim](https://img.shields.io/badge/-Neovim-%2377529e?style=for-the-badge&logoColor=%ffffff)
 <br>
 
-Operating Systems:
 
-![Arch-Linux](https://img.shields.io/badge/-ArchLinux-%23a55233?style=for-the-badge&logoColor=%ffffff)
 
 
 
