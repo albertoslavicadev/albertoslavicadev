@@ -21,7 +21,7 @@
 
 
 ### Some silly Stats  😗
-<img src='https://github-readme-stats.vercel.app/api?username=hathateth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hathateth&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
+<img src='https://github-readme-stats.vercel.app/api?username=hathateth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertoslavicadev&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
 
 
 
