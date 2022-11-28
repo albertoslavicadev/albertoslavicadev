@@ -2,7 +2,7 @@
 
 <p align='center' ><img class='top' style="border-radius:50%;"height='200' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
 <h1 align="center">Hi , I'm Alberto <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<h3 align="center">A student from Italy, passionate about programming and web development!.</h3>
+<h3 align="center">Currently working as a Full-Stack Web Developer.</h3>
 <h3 align="center">Glad to see you here!</h3>  
 
 
@@ -11,10 +11,10 @@
 
 <br><br>
 
--     🌱 I’m currently learning Php. 
+-     🌱 I’m currently working with PHP and Laravel! 
 -     ❤️ Open source lover and linux enthusiast.
 -     💬 Ask me about everything!
--     😄 Pronouns: He/him
+
 
   
 
@@ -65,9 +65,9 @@ Editors:
 ### Contact:
 <p>
 <p align="left">
-    <a href="https://www.instagram.com/hathateth/">
+    <a href="https://www.instagram.com/albertoslavica/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/hathateth">
+    <a href="https://twitter.com/shakledev">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
     <a href="https://discord.com/channels/hathateth">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
