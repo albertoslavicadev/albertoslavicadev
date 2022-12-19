@@ -11,7 +11,7 @@
 
 <br><br>
 
--     🌱 I’m currently working with PHP and Laravel! 
+-     🌱 I’m currently learning RUST Lang! 
 -     ❤️ Open source lover and linux enthusiast.
 -     💬 Ask me about everything!
 
