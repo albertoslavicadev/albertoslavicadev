@@ -15,6 +15,9 @@ const alberto = {
     code: ["Javascript", "C#", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
+        frontend: {
+            framework: ["React", "Angular"]
+        },
         backEnd: {
             js: ["Node", "Fastify", "Express"],
             csharp: [".NET"],
