@@ -1,74 +1,78 @@
+<h2>I'm Alberto Slavica! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
+<p><em>Full-Stack developer at<a href="https://www.ecit.it/"> Ecit S.P.A
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/shakledev?label=Follow)](https://twitter.com/intent/follow?screen_name=shakledev)
+[![Linkedin: Alberto Slavica](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertoslavica/)](https://www.linkedin.com/in/albertoslavica/)
+![GitHub followers](https://img.shields.io/github/followers/albertoslavicadev?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://albertoslavica.dev/)](https://albertoslavica.dev/)
 
 
-<p align='center' ><img class='top' style="border-radius:50%;"height='200' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
-<h1 align="center">Hi , I'm Alberto <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<h3 align="center">Currently working as a Full-Stack Web Developer.</h3>
-<h3 align="center">Glad to see you here!</h3>  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const alberto = {
+    code: ["Javascript", "C#", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+            csharp: [".NET"],
+            php: ["Laravel"]
+        },
+        mobileApp: {
+            native: ["Xamarin"]
+        },
+        devOps: ["AWS", "Docker🐳", "Apache", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Sanity.io"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Focus on ASP.NET at the moment",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 
+---
+<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousands%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🚫 Not Opted to Hire
+ > 
+> 🔑 23 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning     █████████░░░░░░░░░░░░░░░░   38.53% 
+🌆 Daytime     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+🌃 Evening     ███░░░░░░░░░░░░░░░░░░░░░░   14.96%
+🌙 Night       ████████░░░░░░░░░░░░░░░░░   32.42% 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday         ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
+Tuesday        ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Wednesday      ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+Thursday       ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Friday         ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+Saturday       ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Sunday         █████░░░░░░░░░░░░░░░░░░░░   21.07%
+```
 
 
+📊 **This Week I Spent My Time On** 
 
-<br><br>
-
--     🌱 I’m currently learning C# and .NET 
--     ❤️ Open source lover and linux enthusiast.
--     💬 Up to work!
+```text
+⌚︎ Time Zone: Europe/Rome
 
 
-  
+💻 Operating System: 
 
-
-
-### Some silly Stats  😗
-<img src='https://github-readme-stats.vercel.app/api?username=albertoslavicadev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertoslavicadev&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
-
-
-
-
-
-
-###  文&nbsp;Languages and Tools 🛠
-
-
-Languages:  
-![CSharp](https://img.shields.io/badge/csharp-0175C2?style=for-the-badge&logo=php&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Php](https://img.shields.io/badge/php-0175C2?style=for-the-badge&logo=php&logoColor=white)
-<br>
-
-Web Development:
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-080135?style=for-the-badge&logo=bootstrap)
-<br>
-
-Tools and Database:
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-
-Editors:
-
-![Vim](https://img.shields.io/badge/-Neovim-%2377529e?style=for-the-badge&logoColor=%ffffff)
-<br>
-
-
-
-
-
-### Contact:
-<p>
-<p align="left">
-    <a href="https://www.instagram.com/albertoslavica/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/shakledev">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
-    <a href="https://discord.com/channels/hathateth">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>  
+Windows 11     █████████████████████████   100.0%
+```
