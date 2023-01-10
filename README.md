@@ -21,7 +21,7 @@ const alberto = {
             php: ["Laravel"]
         },
         mobileApp: {
-            native: ["Xamarin"]
+            hybrid: ["Xamarin"]
         },
         devOps: ["AWS", "Docker🐳", "Apache", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
