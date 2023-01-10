@@ -32,7 +32,7 @@
 
 
 Languages:  
-![C#](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=csharp&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C#](https://img.shields.io/badge/-C#-%23F7DF1C?style=for-the-badge&logo=csharp&logoColor=000000&labelColor=%37474F&color=%37474F)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Php](https://img.shields.io/badge/php-0175C2?style=for-the-badge&logo=php&logoColor=white)
 <br>
