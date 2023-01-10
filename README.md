@@ -23,8 +23,8 @@ const alberto = {
         mobileApp: {
             hybrid: ["Xamarin"]
         },
-        devOps: ["AWS", "Docker🐳", "Apache", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["AWS", "Azure", "Docker🐳", "Apache", "Nginx"],
+        databases: ["Postgres", "MySql", "Sqlite"],
         misc: ["Firebase", "Sanity.io"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
