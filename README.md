@@ -1,5 +1,5 @@
 <h2>I'm Alberto Slavica! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
-<p><em>Full-Stack developer at<a href="https://www.ecit.it/"> Ecit S.P.A
+<p><em>Full-Stack developer at Wavenure S.r.l
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shakledev?label=Follow)](https://twitter.com/intent/follow?screen_name=shakledev)
