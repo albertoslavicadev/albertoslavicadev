@@ -19,25 +19,20 @@
 
 ```javascript
 const alberto = {
-    code: ["Javascript", "Typescript", "PHP", "Go", "SQL"],
+    languages: ["Javascript", "Typescript", "PHP", "Go", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
-        frontend: {
-            frameworks: ["React", "NextJS"]
-        },
-        backEnd: {
-            ts: ["NodeJS", "Deno"],
-            go: ["Gin Gonic"],
-            php: ["Laravel"],
-        },
+        frontendFrameworks: ["React", "NextJS"],
+        backendFrameworks: ["NodeJS", "Deno", "Gin Gonic", "Laravel"],
         databases: ["MongoDB", "NoSQL", "Postgres", "MySql", "Sqlite"],
         devOps: ["AWS", "Azure", "Docker🐳", "Apache", "Nginx"],
+        tools: ["Macbook"],
         misc: ["Firebase", "Sanity.io"]
     },
-    tools: ["Macbook"],
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Diving deep into Typescript and NextJS",
+    currentFocus: "Diving deep into Typescript and NextJS"
 };
+
 ```
 
 ---
